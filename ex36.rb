@@ -1,4 +1,3 @@
-cigarettes = false
 
 def dark_alley
   puts "You're now in the alley all the local crazy kids hang out in"
